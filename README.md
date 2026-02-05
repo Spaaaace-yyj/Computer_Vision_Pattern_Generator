@@ -5,3 +5,9 @@
 #### 运行环境
 
 - OpenCV >= 4.0
+
+![ArUco_A4_print](.\doc\Chessboard_A4_print.png)
+
+
+
+![ArUco_A4_print](.\doc\ArUco_A4_print.png)
